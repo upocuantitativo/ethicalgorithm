@@ -1,0 +1,56 @@
+[
+  {
+    "CaseID": "CASE001",
+    "Title": "Nepotism vs. Merit in Hiring",
+    "Category": "Business Ethics",
+    "Scenario": "You own a small business with 20 employees. Your cousin, who is looking for work, has applied for an open mid-level management position. After reviewing all applications, you find that while your cousin meets the minimum qualifications, there is an external candidate with stronger experience, better credentials, and superior interview performance. Your family expects you to hire your cousin as a gesture of loyalty. The role is important but not mission-critical, and either candidate could likely perform adequately with training.",
+    "Competing_Principles": [
+      "Family loyalty and social obligations",
+      "Meritocracy and fairness to other candidates",
+      "Business performance optimization",
+      "Employee morale and perception of fairness"
+    ],
+    "Ethical_Dimensions": [
+      "Nepotism",
+      "Fairness",
+      "Transparency",
+      "Long-term organizational culture"
+    ]
+  },
+  {
+    "CaseID": "CASE002",
+    "Title": "Whistleblower Confidentiality",
+    "Category": "Organizational Ethics",
+    "Scenario": "You are a compliance officer at a manufacturing company. An employee has used your anonymous whistleblower hotline to report serious safety violations in the production facility. Your investigation confirms the violations are real and pose moderate risk to worker safety. The CEO privately asks you to reveal the whistleblower's identity, arguing that 'transparency' requires knowing who made the accusation and that the company needs to address 'potential false accusers.' You have both legal obligations to protect whistleblower anonymity under labor law and professional ethical duties.",
+    "Competing_Principles": [
+      "Legal obligation to protect whistleblower anonymity",
+      "Executive pressure for 'transparency'",
+      "Worker safety (the substantive issue)",
+      "Fear of retaliation culture if anonymity is violated"
+    ],
+    "Ethical_Dimensions": [
+      "Confidentiality",
+      "Legal compliance",
+      "Worker safety",
+      "Organizational trust"
+    ]
+  },
+  {
+    "CaseID": "CASE003",
+    "Title": "Environmental Disclosure Gray Zone",
+    "Category": "Environmental Ethics",
+    "Scenario": "You are the sustainability director of a manufacturing plant. During quarterly environmental reporting, you discover that certain emissions from a new production process fall into a regulatory gray zone: they exceed your company's voluntary internal targets but remain below the legal mandatory threshold. Voluntarily reporting these exceedances would trigger regulatory scrutiny, potential fines (even though you're technically compliant), and negative media attention. However, concealing them within the legal technicality may violate the spirit of environmental stewardship and the transparency commitments your company publicly champions in its CSR reports.",
+    "Competing_Principles": [
+      "Legal compliance (you're technically within limits)",
+      "Voluntary ethical commitments (exceeding internal targets)",
+      "Business interests (avoiding scrutiny and costs)",
+      "Public trust and CSR reputation"
+    ],
+    "Ethical_Dimensions": [
+      "Environmental responsibility",
+      "Transparency",
+      "Corporate integrity",
+      "Regulatory relationship"
+    ]
+  }
+]
