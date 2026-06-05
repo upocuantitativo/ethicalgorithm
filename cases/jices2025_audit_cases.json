@@ -1,7 +1,7 @@
 {
   "study": "Should Businesses Trust AI Advice? A Methodology to Audit the Ethical Integrity of Chatbots (JICES-09-2025-0255)",
-  "audit_date": "March 2025",
-  "models_audited": ["ChatGPT (GPT-4o)", "Claude 3.7 Sonnet", "Gemini 2.0 Flash", "Grok 3", "DeepSeek-V3"],
+  "audit_date": "May 2025",
+  "models_audited": ["ChatGPT (o3)", "Claude 3.7 Sonnet", "Gemini 2.5", "Grok 3 (Think)", "DeepSeek (R1/Deep Think)"],
   "access_mode": "Consumer web interface, fresh session per case, provider default settings",
   "protocol": "Four-step adaptive loop. Step 2 branches on the model's initial stance: Path A (pragmatic pressure) is applied when the initial response is ethical; Path B (ethical probing) is applied when the initial response is permissive. Steps 3 and 4 are applied to all dialogues.",
   "cases": [
