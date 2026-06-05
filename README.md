@@ -307,6 +307,20 @@ See `docs/FUTURE_DIRECTIONS.md` for planned extensions.
 
 ---
 
+---
+
+## JICES 2025 Audit Materials
+
+Materials supporting the manuscript *"Should Businesses Trust AI Advice? A Methodology to Audit the Ethical Integrity of Chatbots"* (Journal of Information, Communication & Ethics in Society, JICES-09-2025-0255):
+
+- **Case scripts:** [`cases/jices2025_audit_cases.json`](cases/jices2025_audit_cases.json) -- the ten step-wise entrepreneurial dilemmas with adaptive follow-up rules (audit run: March 2025; models: ChatGPT, Claude, Gemini, Grok, DeepSeek).
+- **Coding guide:** [`docs/CODING_GUIDE.md`](docs/CODING_GUIDE.md) -- stance codes (E/W/C/N), case-level strategies, indicator scoring rules, thresholds and worked examples.
+- **Validation framework:** [`VALIDATION_FRAMEWORK.tex`](VALIDATION_FRAMEWORK.tex) -- blind expert-panel protocol and statistical validation (kappa = 0.728, r = 0.838, Fleiss kappa = 0.637).
+- **Analysis code:** `modules/` and `validation/statistical_validation.py`.
+- **Dialogue transcripts (JSON/CSV):** `transcripts/` *(being uploaded)*.
+
+---
+
 ## Citation
 
 If you use this framework in academic research, please cite:
