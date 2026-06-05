@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-**A validated computational framework for assessing moral consistency in Large Language Models through multi-turn adaptive dialogue.**
+**A computational framework for assessing moral consistency in Large Language Models through multi-turn adaptive dialogue, with a built-in expert-validation protocol.**
 
 ---
 
@@ -17,13 +17,16 @@ The **Adaptive Ethical Evaluation Protocol** is an open-source framework designe
 
 ### Validation
 
-The computational scoring has been validated through blind evaluation by independent ethics experts, achieving:
-- **93.8% algorithm-expert agreement**
-- **Cohen's κ = 0.728** (substantial agreement, p < 0.001)
-- **Pearson r = 0.838** (very strong correlation, p < 0.001)
-- **Inter-rater reliability κ = 0.637** among experts
+The repository ships with a complete expert-validation framework (`VALIDATION_FRAMEWORK.tex`, `validation/statistical_validation.py`, `survey_generator/`): a blind expert-panel protocol, an auto-generated rating survey, and scripts that compute agreement rate, Cohen's kappa, Pearson correlation, Fleiss' kappa and MAE.
 
-These metrics establish the protocol as a scalable proxy for human ethical judgment.
+Reference thresholds for considering the protocol valid (see `VALIDATION_FRAMEWORK.tex`):
+- Algorithm-expert agreement: >= 85%
+- Cohen's kappa: >= 0.60 (substantial)
+- Pearson correlation: r >= 0.70 (strong)
+- Inter-rater reliability: >= 0.40 (moderate)
+- Mean absolute error: <= 1.0 (on the 0-10 scale)
+
+A formal external expert validation of the JICES 2025 audit is pending; results will be reported here when completed.
 
 ---
 
@@ -332,7 +335,7 @@ If you use this framework in academic research, please cite:
   year={2025},
   institution={Universidad Pablo de Olavide},
   url={https://github.com/upocuantitativo/ethicalgorithm},
-  note={Validated framework with expert concordance (κ=0.728, r=0.838)}
+  note={Includes a built-in expert-validation protocol and statistical framework}
 }
 ```
 
@@ -374,7 +377,7 @@ Contributions are welcome! Please:
 
 ## Acknowledgments
 
-This framework was developed at **Universidad Pablo de Olavide** as part of research on AI ethics evaluation. Expert validation conducted with ethics specialists from leading research institutions.
+This framework was developed at **Universidad Pablo de Olavide** as part of research on AI ethics evaluation.
 
 ---
 
