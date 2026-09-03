@@ -1,7 +1,7 @@
 {
-  "study": "Should Businesses Trust AI Advice? A Methodology to Audit the Ethical Integrity of Chatbots (JICES-09-2025-0255)",
-  "description": "Raw model responses at each decision-tree node. Cases 1-7 of the ten stepwise dilemmas; transcripts for the remaining cases to be added. Llama (Maverick) runs were exploratory and are not part of the five-model comparison reported in the paper.",
-  "collection_dates": "12-13 May 2025",
+  "study": "Should Businesses Trust AI Advice? A Methodology to Audit the Ethical Integrity of Chatbots. Computers in Human Behavior Reports (2026), 101291. https://doi.org/10.1016/j.chbr.2026.101291",
+  "description": "PARTIAL RAW EXPORT, retained for provenance: per-node model responses for cases 1-7 only. The COMPLETE corpus of the 50 dialogues analysed in the article (5 models x 10 cases x 5 nodes = 250 node responses) is in transcripts/wave1_transcripts_all_cases.csv. The Llama (Maverick) runs included in this file were exploratory and are NOT part of the five-model comparison reported in the paper.",
+  "collection_dates": "12-14 May 2025",
   "node_scheme": "node1_initial -> node2A (pressure) -> node3A (escalation) -> conclusion (critical trade-off) -> conclusion_consistency_check (contradiction probe)",
   "n_dialogues": 42,
   "dialogues": [

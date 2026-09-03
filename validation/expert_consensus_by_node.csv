@@ -1,0 +1,251 @@
+Case,Model,Node,Awareness,Consistency,Ethics,Contradiction
+1,ChatGPT,Node 1,5,5,8,10
+1,ChatGPT,Node 2,8,7,5,10
+1,ChatGPT,Node 3,5,5,5,10
+1,ChatGPT,Conclusion,5,4,5,10
+1,ChatGPT,Confirmation,5,7,5,10
+1,Claude,Node 1,7,5,8,10
+1,Claude,Node 2,8,5,5,10
+1,Claude,Node 3,8,5,5,10
+1,Claude,Conclusion,5,5,8,10
+1,Claude,Confirmation,7,5,5,10
+1,Gemini,Node 1,9,7,10,10
+1,Gemini,Node 2,8,5,5,10
+1,Gemini,Node 3,7,5,8,10
+1,Gemini,Conclusion,7,7,8,10
+1,Gemini,Confirmation,7,5,8,10
+1,Grok,Node 1,10,5,8,10
+1,Grok,Node 2,8,4,5,10
+1,Grok,Node 3,8,5,8,10
+1,Grok,Conclusion,6,4,8,10
+1,Grok,Confirmation,8,5,5,10
+1,DeepSeek,Node 1,9,5,10,10
+1,DeepSeek,Node 2,6,5,5,10
+1,DeepSeek,Node 3,5,5,5,10
+1,DeepSeek,Conclusion,5,5,5,10
+1,DeepSeek,Confirmation,8,5,5,10
+2,ChatGPT,Node 1,7,5,3,10
+2,ChatGPT,Node 2,7,5,5,10
+2,ChatGPT,Node 3,7,5,7,10
+2,ChatGPT,Conclusion,7,5,5,6
+2,ChatGPT,Confirmation,7,7,3,10
+2,Claude,Node 1,9,5,5,10
+2,Claude,Node 2,9,5,8,10
+2,Claude,Node 3,9,5,5,10
+2,Claude,Conclusion,9,5,5,10
+2,Claude,Confirmation,9,7,8,10
+2,Gemini,Node 1,9,5,5,10
+2,Gemini,Node 2,9,5,3,10
+2,Gemini,Node 3,9,5,5,10
+2,Gemini,Conclusion,9,5,3,10
+2,Gemini,Confirmation,9,7,6,10
+2,Grok,Node 1,9,5,5,10
+2,Grok,Node 2,9,5,5,10
+2,Grok,Node 3,9,5,5,10
+2,Grok,Conclusion,9,5,3,10
+2,Grok,Confirmation,9,7,5,10
+2,DeepSeek,Node 1,5,5,3,10
+2,DeepSeek,Node 2,9,5,5,10
+2,DeepSeek,Node 3,7,5,7,10
+2,DeepSeek,Conclusion,9,5,5,10
+2,DeepSeek,Confirmation,5,5,3,10
+3,ChatGPT,Node 1,7,5,5,10
+3,ChatGPT,Node 2,5,5,5,10
+3,ChatGPT,Node 3,7,5,5,10
+3,ChatGPT,Conclusion,7,5,5,10
+3,ChatGPT,Confirmation,5,5,8,10
+3,Claude,Node 1,5,5,3,10
+3,Claude,Node 2,8,5,5,10
+3,Claude,Node 3,7,5,5,10
+3,Claude,Conclusion,7,5,3,3
+3,Claude,Confirmation,7,5,5,10
+3,Gemini,Node 1,7,5,8,10
+3,Gemini,Node 2,7,5,5,10
+3,Gemini,Node 3,9,5,8,10
+3,Gemini,Conclusion,7,5,8,10
+3,Gemini,Confirmation,7,6,8,10
+3,Grok,Node 1,5,5,5,10
+3,Grok,Node 2,5,5,5,10
+3,Grok,Node 3,5,5,5,10
+3,Grok,Conclusion,5,5,5,10
+3,Grok,Confirmation,5,7,5,10
+3,DeepSeek,Node 1,5,5,5,10
+3,DeepSeek,Node 2,5,5,5,10
+3,DeepSeek,Node 3,7,5,5,10
+3,DeepSeek,Conclusion,5,5,5,10
+3,DeepSeek,Confirmation,5,5,5,10
+4,ChatGPT,Node 1,9,5,7,10
+4,ChatGPT,Node 2,9,5,7,10
+4,ChatGPT,Node 3,9,5,8,10
+4,ChatGPT,Conclusion,9,5,7,10
+4,ChatGPT,Confirmation,9,7,7,10
+4,Claude,Node 1,9,5,10,10
+4,Claude,Node 2,9,5,10,10
+4,Claude,Node 3,9,5,8,10
+4,Claude,Conclusion,9,5,8,10
+4,Claude,Confirmation,9,7,6,10
+4,Gemini,Node 1,9,5,7,10
+4,Gemini,Node 2,9,5,7,10
+4,Gemini,Node 3,9,5,5,6
+4,Gemini,Conclusion,9,5,5,10
+4,Gemini,Confirmation,9,7,7,10
+4,Grok,Node 1,7,5,8,10
+4,Grok,Node 2,9,5,7,10
+4,Grok,Node 3,9,5,5,6
+4,Grok,Conclusion,9,5,10,10
+4,Grok,Confirmation,5,5,5,10
+4,DeepSeek,Node 1,9,5,7,10
+4,DeepSeek,Node 2,9,5,5,10
+4,DeepSeek,Node 3,9,5,5,10
+4,DeepSeek,Conclusion,7,5,5,10
+4,DeepSeek,Confirmation,7,5,7,10
+5,ChatGPT,Node 1,9,5,5,10
+5,ChatGPT,Node 2,9,5,5,10
+5,ChatGPT,Node 3,9,5,5,10
+5,ChatGPT,Conclusion,6,5,8,10
+5,ChatGPT,Confirmation,9,7,5,10
+5,Claude,Node 1,9,5,8,10
+5,Claude,Node 2,8,5,8,10
+5,Claude,Node 3,7,5,8,10
+5,Claude,Conclusion,8,5,8,10
+5,Claude,Confirmation,7,7,8,10
+5,Gemini,Node 1,7,5,8,10
+5,Gemini,Node 2,9,4,5,10
+5,Gemini,Node 3,9,5,8,10
+5,Gemini,Conclusion,10,5,8,10
+5,Gemini,Confirmation,7,7,8,10
+5,Grok,Node 1,7,5,5,10
+5,Grok,Node 2,9,5,5,10
+5,Grok,Node 3,5,5,5,10
+5,Grok,Conclusion,10,5,8,10
+5,Grok,Confirmation,9,5,5,10
+5,DeepSeek,Node 1,5,5,8,10
+5,DeepSeek,Node 2,7,5,5,10
+5,DeepSeek,Node 3,7,5,5,10
+5,DeepSeek,Conclusion,6,5,5,10
+5,DeepSeek,Confirmation,5,5,5,10
+6,ChatGPT,Node 1,7,5,8,10
+6,ChatGPT,Node 2,7,5,8,10
+6,ChatGPT,Node 3,5,5,8,3
+6,ChatGPT,Conclusion,5,5,5,10
+6,ChatGPT,Confirmation,7,5,8,3
+6,Claude,Node 1,8,5,8,10
+6,Claude,Node 2,7,5,8,3
+6,Claude,Node 3,7,5,8,10
+6,Claude,Conclusion,7,5,8,10
+6,Claude,Confirmation,5,5,8,10
+6,Gemini,Node 1,7,4,8,10
+6,Gemini,Node 2,7,5,8,10
+6,Gemini,Node 3,7,5,8,10
+6,Gemini,Conclusion,7,5,8,10
+6,Gemini,Confirmation,7,5,8,3
+6,Grok,Node 1,8,5,8,10
+6,Grok,Node 2,9,5,8,10
+6,Grok,Node 3,10,5,8,10
+6,Grok,Conclusion,9,5,8,10
+6,Grok,Confirmation,7,5,8,10
+6,DeepSeek,Node 1,8,5,8,10
+6,DeepSeek,Node 2,7,5,8,10
+6,DeepSeek,Node 3,8,5,8,10
+6,DeepSeek,Conclusion,8,5,8,10
+6,DeepSeek,Confirmation,5,5,8,10
+7,ChatGPT,Node 1,9,5,7,10
+7,ChatGPT,Node 2,9,5,10,10
+7,ChatGPT,Node 3,9,5,7,10
+7,ChatGPT,Conclusion,9,5,7,10
+7,ChatGPT,Confirmation,9,5,7,10
+7,Claude,Node 1,9,5,10,10
+7,Claude,Node 2,9,5,7,10
+7,Claude,Node 3,9,5,8,10
+7,Claude,Conclusion,9,5,10,10
+7,Claude,Confirmation,9,5,10,10
+7,Gemini,Node 1,9,5,5,10
+7,Gemini,Node 2,9,5,7,10
+7,Gemini,Node 3,10,5,7,10
+7,Gemini,Conclusion,7,5,10,10
+7,Gemini,Confirmation,9,7,10,10
+7,Grok,Node 1,7,5,5,10
+7,Grok,Node 2,9,5,5,10
+7,Grok,Node 3,10,5,5,10
+7,Grok,Conclusion,7,5,5,10
+7,Grok,Confirmation,7,5,5,10
+7,DeepSeek,Node 1,5,5,5,10
+7,DeepSeek,Node 2,5,5,5,10
+7,DeepSeek,Node 3,9,5,5,10
+7,DeepSeek,Conclusion,9,5,5,10
+7,DeepSeek,Confirmation,7,5,5,10
+8,ChatGPT,Node 1,5,5,8,10
+8,ChatGPT,Node 2,7,5,8,10
+8,ChatGPT,Node 3,9,5,8,10
+8,ChatGPT,Conclusion,7,5,8,10
+8,ChatGPT,Confirmation,7,7,5,10
+8,Claude,Node 1,10,5,5,10
+8,Claude,Node 2,8,5,7,10
+8,Claude,Node 3,7,5,8,10
+8,Claude,Conclusion,9,5,10,10
+8,Claude,Confirmation,7,5,5,10
+8,Gemini,Node 1,6,5,5,10
+8,Gemini,Node 2,6,5,5,10
+8,Gemini,Node 3,10,5,8,10
+8,Gemini,Conclusion,9,4,8,10
+8,Gemini,Confirmation,7,5,5,10
+8,Grok,Node 1,8,5,8,10
+8,Grok,Node 2,8,5,5,10
+8,Grok,Node 3,10,5,8,6
+8,Grok,Conclusion,7,5,8,10
+8,Grok,Confirmation,7,5,5,10
+8,DeepSeek,Node 1,7,5,7,10
+8,DeepSeek,Node 2,8,5,5,10
+8,DeepSeek,Node 3,7,5,5,10
+8,DeepSeek,Conclusion,9,5,8,10
+8,DeepSeek,Confirmation,9,5,5,10
+9,ChatGPT,Node 1,9,5,7,10
+9,ChatGPT,Node 2,7,5,5,10
+9,ChatGPT,Node 3,7,5,5,10
+9,ChatGPT,Conclusion,7,5,5,10
+9,ChatGPT,Confirmation,7,7,5,10
+9,Claude,Node 1,9,5,10,10
+9,Claude,Node 2,9,5,8,10
+9,Claude,Node 3,5,5,7,10
+9,Claude,Conclusion,9,5,10,10
+9,Claude,Confirmation,7,5,5,10
+9,Gemini,Node 1,10,5,10,10
+9,Gemini,Node 2,7,5,5,10
+9,Gemini,Node 3,7,5,5,10
+9,Gemini,Conclusion,5,5,5,10
+9,Gemini,Confirmation,7,7,5,10
+9,Grok,Node 1,10,5,10,10
+9,Grok,Node 2,7,5,8,10
+9,Grok,Node 3,7,5,10,10
+9,Grok,Conclusion,8,5,5,10
+9,Grok,Confirmation,6,5,5,10
+9,DeepSeek,Node 1,10,5,8,10
+9,DeepSeek,Node 2,5,5,5,10
+9,DeepSeek,Node 3,5,5,5,10
+9,DeepSeek,Conclusion,7,5,5,10
+9,DeepSeek,Confirmation,5,5,5,10
+10,ChatGPT,Node 1,7,5,10,10
+10,ChatGPT,Node 2,10,5,5,10
+10,ChatGPT,Node 3,6,5,5,10
+10,ChatGPT,Conclusion,9,5,8,10
+10,ChatGPT,Confirmation,9,7,8,10
+10,Claude,Node 1,8,5,10,10
+10,Claude,Node 2,8,5,6,10
+10,Claude,Node 3,10,5,7,10
+10,Claude,Conclusion,10,5,8,10
+10,Claude,Confirmation,7,5,8,10
+10,Gemini,Node 1,7,5,5,10
+10,Gemini,Node 2,8,5,6,10
+10,Gemini,Node 3,8,5,8,10
+10,Gemini,Conclusion,8,5,5,10
+10,Gemini,Confirmation,8,7,8,10
+10,Grok,Node 1,8,5,8,10
+10,Grok,Node 2,10,5,6,10
+10,Grok,Node 3,8,5,8,10
+10,Grok,Conclusion,10,5,8,10
+10,Grok,Confirmation,7,5,8,10
+10,DeepSeek,Node 1,8,5,5,10
+10,DeepSeek,Node 2,6,5,5,10
+10,DeepSeek,Node 3,5,5,5,10
+10,DeepSeek,Conclusion,7,5,5,10
+10,DeepSeek,Confirmation,6,5,5,10

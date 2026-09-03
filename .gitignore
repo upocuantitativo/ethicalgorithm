@@ -46,6 +46,12 @@ outputs/
 *.xlsx
 !data/Cases_LLM_Ethics.xlsx
 
+# Published data files backing the article's Data Availability statement.
+# These MUST be tracked; the blanket *.csv rule above silently excluded them.
+!transcripts/*.csv
+!validation/*.csv
+!results/*.csv
+
 # Logs
 *.log
 
